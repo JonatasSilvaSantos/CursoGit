@@ -1,0 +1,6 @@
+C:\Users\Jônatas\Documents\SMN\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe.config
+C:\Users\Jônatas\Documents\SMN\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe
+C:\Users\Jônatas\Documents\SMN\CalculoArea\CalculoArea\bin\Debug\CalculoArea.pdb
+C:\Users\Jônatas\Documents\SMN\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csprojResolveAssemblyReference.cache
+C:\Users\Jônatas\Documents\SMN\CalculoArea\CalculoArea\obj\Debug\CalculoArea.exe
+C:\Users\Jônatas\Documents\SMN\CalculoArea\CalculoArea\obj\Debug\CalculoArea.pdb
